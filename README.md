@@ -18,7 +18,7 @@ our next step that we will try to prepare our data and adjust its dimensions and
 ### Results 
 -the model accuracy is :0.93
 
-![Alt text]()
+![Alt text](https://github.com/menna566/Retina-Damage-Classification-/blob/main/photo_6025840907745606851_y.jpg)
 
 
 
