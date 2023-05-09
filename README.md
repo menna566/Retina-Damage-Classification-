@@ -3,7 +3,10 @@
 The goal of this project is to utilize conventional neural network to classify Retina Damage with best accuracy possible.
 ### Requirements:
 -numpy
+
 -tensorflow
+
+
 -matplotlib
 ### Approach :
 -we will load the train,test,validation folders that contains the data and I did some visualization to see the normal and the abnormal batch and we took some samples some to apply preprocessing as I applied some filters like Gussian,poisson,salt and paper 
