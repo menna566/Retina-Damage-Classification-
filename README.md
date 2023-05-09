@@ -6,7 +6,6 @@ The goal of this project is to utilize conventional neural networks to classify 
 -tensorflow
 -matplotlib
 ### Approach :
--we will load the train,test,validation data
--First problem we face that the classes were imbalanced so we made them at the same level
-![Alt text](https://github.com/menna566/Retina-Damage-Detection-/blob/main/photo_6019232890107312145_x.jpg)
-and did some visualization to see the normal and the abnormal batch and some preprocessing as we applied some filters like Gussian,poisson,salt and paper
+-we will load the train,test,validation data and did some visualization to see the normal and the abnormal batch and some preprocessing as we applied some filters like Gussian,poisson,salt and paper
+
+![Alt text]()
