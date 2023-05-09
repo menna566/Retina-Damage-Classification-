@@ -10,7 +10,7 @@ The goal of this project is to utilize conventional neural network to classify R
 
 ![Alt text](https://github.com/menna566/Retina-Damage-Detection-/blob/main/photo_6025840907745606851_y.jpg)
 
--as we see we lost a lot of information so we wont apply these filters on our data 
+#-as we see we lost a lot of information so we wont apply these filters on our data 
 
 
 our next step that we will try to prepare our data and adjust its dimensions and then we will build a conventional neural network model using tensorflow to fit the model on the training set and later we will test it on the test set and compare it with the validation set to analyze if overfitting took place. 
@@ -28,6 +28,7 @@ our next step that we will try to prepare our data and adjust its dimensions and
 
 ## Deployment 
 we also deployed our model using Flusk API and it classified our sample right as we see below :
+
 ![Alt text](https://github.com/menna566/Retina-Damage-Classification-/blob/main/photo_6025840907745606910_x.jpg)
 
 
