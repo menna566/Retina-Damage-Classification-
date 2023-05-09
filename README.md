@@ -18,10 +18,17 @@ our next step that we will try to prepare our data and adjust its dimensions and
 ### Results 
 -the model accuracy is :0.93
 
-![Alt text](https://github.com/menna566/Retina-Damage-Classification-/blob/main/photo_6025840907745606851_y.jpg)
+![Alt text](https://github.com/menna566/Retina-Damage-Classification-/blob/main/Screenshot%202023-05-09%20215025.png)
 
 
 
-![Alt text]()
+![Alt text](https://github.com/menna566/Retina-Damage-Classification-/blob/main/photo_6025840907745606852_m.jpg)
 
 -we observe that the training loss was closs to the validation loss so i think our model dont have overfitting 
+
+## Deployment 
+we also deployed our model using Flusk API and it classified our sample right as we see below :
+![Alt text](https://github.com/menna566/Retina-Damage-Classification-/blob/main/photo_6025840907745606910_x.jpg)
+
+
+![Alt text](https://github.com/menna566/Retina-Damage-Classification-/blob/main/photo_6025840907745606912_x%20(1).jpg)
