@@ -27,7 +27,7 @@ our next step that we will try to prepare our data and adjust its dimensions and
 
 ![Alt text](https://github.com/menna566/Retina-Damage-Classification-/blob/main/photo_6025840907745606852_m.jpg)
 
--we observe that the training loss was closs to the validation loss so i think our model dont have overfitting 
+-we observe that the training loss was close to the validation loss so i think our model dont have overfitting 
 
 ## Deployment 
 we also deployed our model using Flusk API and it classified our sample right as we see below :
